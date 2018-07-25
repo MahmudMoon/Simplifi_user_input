@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simplifi_user_input</string>
+    <string name="CheckBoxOn">Is Checked</string>
+    <string name="CheckBoxOff">Not Checked</string>
+    <string name="ToggleButtonOn">Toggle is On</string>
+    <string name="ToggleButtonOff">Toggle is OFF</string>
+    <string name="SwichOn">Switch is On</string>
+    <string name="SwichOff">Switch is OFF</string>
+    <string-array name="items">
+        <item>Item One</item>
+        <item>Item Two</item>
+        <item>Item Three</item>
+    </string-array>
+</resources>
